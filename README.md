@@ -20,3 +20,13 @@ My forthcoming publication (under review in *Paleoceanography*) adds more sedime
 
 Citation for Oliver et al (2010) data set:
 Oliver, K. I. C., Hoogakker, B. A. A., Crowhurst, S., Henderson, G. M., Rickaby, R. E. M., Edwards, N. R., & Elderfield, H. (2010). A synthesis of marine sediment core δ13C data over the last 150 000 years. Climate of the Past, 6(5), 645–673. https://doi.org/10.5194/cp- 6-645-2010
+
+# Required packages
+- numpy
+- pandas
+- matplotlib.pyplot
+- matplotlib.transforms
+- matplotlib.cm
+- matplotlib.colors
+- seaborn
+
