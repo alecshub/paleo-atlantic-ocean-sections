@@ -3,6 +3,8 @@
 ## Summary of program process
 This program reads in and combines two sediment core stable isotope databases. It then automates data cleaning and wrangling to filter for the desired geographic location of sediment cores (focused on the Atlantic Ocean), splices the data set by specified age ranges, calculates a mean stable isotope value for each sediment core within a given age range, and returns a finalized MultiIndex data set. Lastly, the program develops a detailed figure, showing stable isotope values throughout the Atlantic Ocean for each age range.
 
+Both .csv files must be in the same folder as atlantic_d13C_sections.py in order for program to run. If trouble running, check out the included .png file for the final program figure output.
+
 ## Background - Please read!
 The deep ocean (>1000 m) is home to a conveyor belt of ocean water masses, which play a central role in transporting heat, nutrients, and carbon throughout the world’s oceans. Because the ocean conveyor belt is driven by differences in water density, input of relatively buoyant fresh meltwater from the polar icecaps can disrupt this circulation, thereby significantly impacting Earth’s climate system.
 
