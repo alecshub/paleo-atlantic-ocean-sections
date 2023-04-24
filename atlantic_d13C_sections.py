@@ -10,7 +10,7 @@ import matplotlib.colors as mcolors
 df = pd.read_csv("Oliver2010_core_database.csv", names=["name", "Latitude", "longitude", "Depth", "depthincore", "age", "species", "d18O", "d13C"], skiprows=[0])
 
 # Read in supplementary sediment core database.
-df2 = pd.read_csv("additional_core_database.csv",names=["name", "Latitude", "longitude", "Depth", "depthincore", "age", "species", "d18O", "d13C"], skiprows=[0])
+df2 = pd.read_csv("additional_core_database.csv", names=["name", "Latitude", "longitude", "Depth", "depthincore", "age", "species", "d18O", "d13C"], skiprows=[0])
 
 # Merge both dataframes together.
 df = pd.concat([df, df2], axis=0)
