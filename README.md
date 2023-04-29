@@ -1,4 +1,4 @@
-# paleo-isotope-sections
+# paleo-atlantic-ocean-sections
 
 ## Summary of program process
 This program reads in and combines two sediment core stable isotope databases. It then automates data cleaning and wrangling to filter for the desired geographic location of sediment cores (focused on the Atlantic Ocean), splices the data set by specified age ranges, calculates a mean stable isotope value for each sediment core within a given age range, and returns a finalized MultiIndex data set. Lastly, the program develops a detailed figure, showing stable isotope values throughout the Atlantic Ocean for each age range.
