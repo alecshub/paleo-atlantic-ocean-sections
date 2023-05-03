@@ -33,4 +33,4 @@ Oliver, K. I. C., Hoogakker, B. A. A., Crowhurst, S., Henderson, G. M., Rickaby,
 
 2) Download all project files from github and save in one folder.
 
-3) Open atlantic_d13C_sections.py in your IDE and run.
+3) Open atlantic_d13C_sections.py in your IDE or locate interminal and run.
