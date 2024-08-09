@@ -18,7 +18,7 @@ In this program, I work with a dataset of sediment core carbon isotope records, 
 
 There are many takeaways from this comparison but let’s focus on one that helps to answer our question from above: Back during the Last Glacial Maximum, when atmospheric CO2 values were 100 ppm lower than preindustrial levels, where exactly did all of that carbon go? Look no further than the deep ocean! During glacial periods (right column), blue values below 2500 meters water depth indicate immense storage of isotopically light carbon in the depths of the abyssal ocean. During interglacial periods (left column) that reservoir becomes much smaller as that carbon is released back into the atmosphere. This is just one example of the significant interconnectedness of Earth’s climate with deep ocean circulation. However, this in no way explains the unprecedented modern atmospheric CO2 levels. It merely offers insight into the natural glacial-interglacial climate oscillation observed prior to the industrial revolution.
 
-I am contributing this analysis to a publication, currently under review in *Paleoceanography*. As part of that process, I will be adding my own sediment core records to the Oliver et al (2010) dataset. I used the age-model-interpolation-function (which can also be found in my github) to develop age scales for each of these sediment cores. Please check out that function too!
+This analysis was included in my recent publication in *Paleoceanography*, which can be found at this link: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023PA004635. As part of that process, we added new sediment core records to the Oliver et al (2010) dataset. I used the age-model-interpolation-function (which can also be found in my github) to develop age scales for each of these sediment cores. Please check out that function too!
 
 Citation for Oliver et al (2010) dataset:  
 Oliver, K. I. C., Hoogakker, B. A. A., Crowhurst, S., Henderson, G. M., Rickaby, R. E. M., Edwards, N. R., & Elderfield, H. (2010). A synthesis of marine sediment core δ13C data over the last 150 000 years. Climate of the Past, 6(5), 645–673. https://doi.org/10.5194/cp- 6-645-2010
@@ -33,4 +33,4 @@ Oliver, K. I. C., Hoogakker, B. A. A., Crowhurst, S., Henderson, G. M., Rickaby,
 
 2) Download all project files from github and save in one folder.
 
-3) Open atlantic_d13C_sections.py in your IDE or locate interminal and run.
+3) Open atlantic_d13C_sections.py in your IDE or locate in terminal and run.
